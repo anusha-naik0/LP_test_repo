@@ -13,3 +13,9 @@ print("Hi")
 ```
 
 ##How to run code
+* ```python
+  python first.py
+  ```
+* Enjoy!
+* [Click here to open google](https://www.google.com/)
+* https://www.google.com/
